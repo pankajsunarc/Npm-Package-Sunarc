@@ -1,0 +1,21 @@
+{
+  "name": "sunarc-npm-package",
+  "description": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pankajsunarc/Npm-Package-Sunarc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajsunarc/Npm-Package-Sunarc/issues"
+  },
+  "homepage": "https://github.com/pankajsunarc/Npm-Package-Sunarc"
+}
