@@ -1,21 +1,46 @@
 {
-  "name": "sunarc-npm-package",
-  "description": "",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "sunarc-npm-package",
+  "_id": "sunarc-npm-package@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-dV0DzrX4QdGWuRzuiryRTlDeJx9aH/yJezForhDcttG7QO6YFEmWACDu0XJbPjKPNqUPLWcQMTJpcdMtyTbv9w==",
+  "_location": "/sunarc-npm-package",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "sunarc-npm-package",
+    "name": "sunarc-npm-package",
+    "escapedName": "sunarc-npm-package",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pankajsunarc/Npm-Package-Sunarc.git"
-  },
-  "keywords": [],
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sunarc-npm-package/-/sunarc-npm-package-1.0.0.tgz",
+  "_shasum": "38e39864572f3d6847307948e08cb281580d8618",
+  "_spec": "sunarc-npm-package",
+  "_where": "D:\\pankaj suthar\\Angular\\my-app",
   "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/pankajsunarc/Npm-Package-Sunarc/issues"
   },
-  "homepage": "https://github.com/pankajsunarc/Npm-Package-Sunarc"
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/pankajsunarc/Npm-Package-Sunarc",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "sunarc-npm-package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajsunarc/Npm-Package-Sunarc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }
