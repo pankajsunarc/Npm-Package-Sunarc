@@ -1,6 +1,6 @@
 {
   "_from": "sunarc-npm-package",
-  "_id": "sunarc-npm-package@1.0.0",
+  "_id": "sunarc-npm-package@1.0.1",
   "_inBundle": false,
   "_integrity": "sha512-dV0DzrX4QdGWuRzuiryRTlDeJx9aH/yJezForhDcttG7QO6YFEmWACDu0XJbPjKPNqUPLWcQMTJpcdMtyTbv9w==",
   "_location": "/sunarc-npm-package",
@@ -19,7 +19,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/sunarc-npm-package/-/sunarc-npm-package-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/sunarc-npm-package/-/sunarc-npm-package-1.0.1.tgz",
   "_shasum": "38e39864572f3d6847307948e08cb281580d8618",
   "_spec": "sunarc-npm-package",
   "_where": "D:\\pankaj suthar\\Angular\\my-app",
@@ -42,5 +42,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
+
